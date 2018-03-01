@@ -1,0 +1,77 @@
+C:\Calisma\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe.config
+C:\Calisma\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe
+C:\Calisma\OdevForm02\OdevForm02\bin\Debug\OdevForm02.pdb
+C:\Calisma\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csprojResolveAssemblyReference.cache
+C:\Calisma\OdevForm02\OdevForm02\obj\Debug\OdevForm02.Form1.resources
+C:\Calisma\OdevForm02\OdevForm02\obj\Debug\OdevForm02.Properties.Resources.resources
+C:\Calisma\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csproj.GenerateResource.Cache
+C:\Calisma\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csproj.CoreCompileInputs.cache
+C:\Calisma\OdevForm02\OdevForm02\obj\Debug\OdevForm02.exe
+C:\Calisma\OdevForm02\OdevForm02\obj\Debug\OdevForm02.pdb
+C:\Calisma\OdevForm02\OdevForm02\obj\Debug\OdevForm02.Form2.resources
+D:\CihanHoca\Windows\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe.config
+D:\CihanHoca\Windows\OdevForm02\OdevForm02\obj\Debug\OdevForm02.exe
+D:\CihanHoca\Windows\OdevForm02\OdevForm02\obj\Debug\OdevForm02.pdb
+D:\CihanHoca\Windows\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe
+D:\CihanHoca\Windows\OdevForm02\OdevForm02\bin\Debug\OdevForm02.pdb
+D:\CihanHoca\Windows\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csprojResolveAssemblyReference.cache
+D:\CihanHoca\Windows\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmOyun.resources
+D:\CihanHoca\Windows\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmGiris.resources
+D:\CihanHoca\Windows\OdevForm02\OdevForm02\obj\Debug\OdevForm02.Properties.Resources.resources
+D:\CihanHoca\Windows\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csproj.GenerateResource.Cache
+C:\Users\vektorel\Desktop\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe.config
+C:\Users\vektorel\Desktop\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.exe
+C:\Users\vektorel\Desktop\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.pdb
+C:\Users\vektorel\Desktop\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe
+C:\Users\vektorel\Desktop\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\bin\Debug\OdevForm02.pdb
+C:\Users\vektorel\Desktop\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmOyun.resources
+C:\Users\vektorel\Desktop\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmGiris.resources
+C:\Users\vektorel\Desktop\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.Properties.Resources.resources
+C:\Users\vektorel\Desktop\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csproj.GenerateResource.Cache
+C:\Users\Luthien\C# KURS\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe.config
+C:\Users\Luthien\C# KURS\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.exe
+C:\Users\Luthien\C# KURS\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.pdb
+C:\Users\Luthien\C# KURS\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe
+C:\Users\Luthien\C# KURS\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\bin\Debug\OdevForm02.pdb
+C:\Users\Luthien\C# KURS\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csprojResolveAssemblyReference.cache
+C:\Users\Luthien\C# KURS\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmOyun.resources
+C:\Users\Luthien\C# KURS\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmGiris.resources
+C:\Users\Luthien\C# KURS\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.Properties.Resources.resources
+C:\Users\Luthien\C# KURS\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csproj.GenerateResource.Cache
+C:\Users\Luthien\C# KURS\13.Hafta\YeniButonOyun\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmSkor.resources
+C:\Users\vektorel\Desktop\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmOyun.resources
+C:\Users\vektorel\Desktop\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmGiris.resources
+C:\Users\vektorel\Desktop\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmSkor.resources
+C:\Users\vektorel\Desktop\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.Properties.Resources.resources
+C:\Users\vektorel\Desktop\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csproj.GenerateResource.Cache
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe.config
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\bin\Debug\OdevForm02.pdb
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\bin\Debug\DosyaIslemleri.Lib.dll
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\bin\Debug\DosyaIslemleri.Lib.pdb
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmOyun.resources
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmGiris.resources
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmSkor.resources
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.Properties.Resources.resources
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csproj.GenerateResource.Cache
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.exe
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.pdb
+F:\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe.config
+F:\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.exe
+F:\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.pdb
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe.config
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.exe
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.pdb
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\bin\Debug\OdevForm02.exe
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\bin\Debug\OdevForm02.pdb
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\bin\Debug\DosyaIslemleri.Lib.dll
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\bin\Debug\DosyaIslemleri.Lib.pdb
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csprojResolveAssemblyReference.cache
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmOyun.resources
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmGiris.resources
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.frmSkor.resources
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.Properties.Resources.resources
+C:\Users\Luthien\C# KURS\14.Hafta\14.Hafta\OdevForm02\OdevForm02\obj\Debug\OdevForm02.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\vektorel\Desktop\14.Hafta\OdevForm02\SkorKaydet\bin\Debug\DosyaIslemleri.Lib.dll
+C:\Users\vektorel\Desktop\14.Hafta\OdevForm02\SkorKaydet\bin\Debug\DosyaIslemleri.Lib.pdb
+C:\Users\vektorel\Desktop\14.Hafta\OdevForm02\SkorKaydet\obj\Debug\DosyaIslemleri.Lib.dll
+C:\Users\vektorel\Desktop\14.Hafta\OdevForm02\SkorKaydet\obj\Debug\DosyaIslemleri.Lib.pdb
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\SkorKaydet\bin\Debug\DosyaIslemleri.Lib.dll
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\SkorKaydet\bin\Debug\DosyaIslemleri.Lib.pdb
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\SkorKaydet\obj\Debug\DosyaIslemleri.Lib.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\SkorKaydet\obj\Debug\DosyaIslemleri.Lib.dll
+C:\Users\vektorel\Desktop\14.Hafta\14.Hafta\OdevForm02\SkorKaydet\obj\Debug\DosyaIslemleri.Lib.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdevForm02", "OdevForm02\OdevForm02.csproj", "{B78EE25E-00AD-4BB8-A5C2-565229A5B514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DosyaIslemleri.Lib", "SkorKaydet\DosyaIslemleri.Lib.csproj", "{80F87CFA-061A-492A-A337-E24B98A7E8EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B78EE25E-00AD-4BB8-A5C2-565229A5B514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78EE25E-00AD-4BB8-A5C2-565229A5B514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78EE25E-00AD-4BB8-A5C2-565229A5B514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78EE25E-00AD-4BB8-A5C2-565229A5B514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F87CFA-061A-492A-A337-E24B98A7E8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F87CFA-061A-492A-A337-E24B98A7E8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F87CFA-061A-492A-A337-E24B98A7E8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F87CFA-061A-492A-A337-E24B98A7E8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0076BBEA-8E48-4B49-89E2-9FA201158503}
+	EndGlobalSection
+EndGlobal
